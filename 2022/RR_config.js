@@ -15,7 +15,7 @@ const configData = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022ncgre",
+        "defaultValue":"2022ncgui",
         "required":"true",
         "disabled":"true"
       },
